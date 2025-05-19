@@ -1,6 +1,6 @@
 # shab
 
-A new Flutter project.
+3 in one App for shool management and firebase database.
 
 ## Getting Started
 
