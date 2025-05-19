@@ -316,5 +316,5 @@ class SuiviPage extends StatelessWidget {
         ),
       ),
     );
-  }
+ }
 }
